@@ -1,0 +1,29 @@
+body {
+  background-color: black;
+  color:white;
+  font-size: 2vh;
+  color:darkgray;
+}
+
+header {
+  text-align: center;
+  font-size:0.7vw;
+  color:darkgray;
+}
+
+main content ul, li {
+  list-style-type: none;
+}
+
+main content a{
+  color:darkgray;
+}
+
+main content a:hover {
+  color:green;
+  background-color:darkgray;
+}
+
+main content a:active {
+  background-color:darkgreen;
+}
